@@ -1,0 +1,7 @@
+Gradient Descent Final Loss: 0.7494777691
+RMSProp Final Loss: 0.7496312050
+Adam Final Loss: 0.7494777685
+
+Best Optimizer: Adam
+Reason:
+Lowest final loss + fastest convergence + best stability

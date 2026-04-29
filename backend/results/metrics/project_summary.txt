@@ -1,0 +1,19 @@
+PROJECT SUMMARY
+
+Linear Regression → Real Housing Dataset ✅
+
+Logistic Regression → Accuracy = 100% ✅
+
+SVM → Accuracy = 95.6% ✅
+
+PCA → Reduced 4 Features → 2 Principal Components ✅
+
+Optimizer Comparison:
+Gradient Descent Final Loss → 0.7494777691
+RMSProp Final Loss → 0.7496312050
+Adam Final Loss → 0.7494777685
+
+Best Optimizer → Adam Optimizer ✅
+
+Reason:
+Lowest final loss + Fastest convergence + Best stability
