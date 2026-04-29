@@ -1,5 +1,7 @@
 # Mathematical Foundations of Machine Learning – From Scratch Implementation
 
+🚀 **Live Demo:** [https://machine-learning-from-scratch-dashb.vercel.app/](https://machine-learning-from-scratch-dashb.vercel.app/)
+
 ## Project Overview
 
 This project focuses on implementing core Machine Learning algorithms from scratch using NumPy without relying on high-level ML libraries like Scikit-learn. The goal is to strengthen mathematical understanding behind ML models by building them step-by-step and visualizing their behavior using real datasets.
